@@ -8,8 +8,6 @@
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Tools-SRE&show_owner=true&theme=dark)](https://github.com/jhonnypz/Tools-SRE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Learned-Topics&show_owner=true&theme=dark)](https://github.com/jhonnypz/Learned-Topics)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=APIs-DotNET-7&show_owner=true&theme=dark)](https://github.com/jhonnypz/APIs-DotNET-7)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Weekly-Challenge-2022-CSharp&show_owner=true&theme=dark)](https://github.com/jhonnypz/Weekly-Challenge-2022-CSharp)
 
 ## Technologies
