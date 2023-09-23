@@ -7,8 +7,9 @@
 </br>
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Tools-SRE&show_owner=true&theme=dark)](https://github.com/jhonnypz/Tools-SRE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Weekly-Challenge-2022-CSharp&show_owner=true&theme=dark)](https://github.com/jhonnypz/Weekly-Challenge-2022-CSharp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Tools-SRE&theme=dark)](https://github.com/jhonnypz/Tools-SRE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Frameworks&theme=dark)](https://github.com/Frameworks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Weekly-Challenge-2022-CSharp&theme=dark)](https://github.com/jhonnypz/Weekly-Challenge-2022-CSharp)
 
 ## Technologies
 >![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)
