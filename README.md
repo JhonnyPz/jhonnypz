@@ -12,7 +12,7 @@
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Tools-SRE&theme=dark)](https://github.com/jhonnypz/Tools-SRE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Frameworks&theme=dark)](https://github.com/Frameworks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Frameworks&theme=dark)](https://github.com/jhonnypz/Frameworks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Weekly-Challenge-2022-CSharp&theme=dark)](https://github.com/jhonnypz/Weekly-Challenge-2022-CSharp)
 
 ## Technologies
