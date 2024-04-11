@@ -4,7 +4,7 @@
 *I specialize in **Site Reliability Engineering** with a strong background in Cloud administration. My focus lies in deploying, managing, and monitoring cloud services using Microsoft `Azure` and `AWS`, leveraging expertise in Continuous Integration, Continuous Deployment, and Continuous Delivery **CI/CD.***
 
 ***Backend Developer***   
-*I'm learn development web across a spectrum of technologies, including `ASP.NET` `Node.JS` `React` complemented by proficiency in languages like **C# JavaScript Python.***
+*I'm learn development web across a spectrum of technologies, including `ASP.NET` and `Node.JS` complemented by proficiency in languages like **C# JavaScript Python.***
 
 ## About Me
 [![name](https://img.shields.io/badge/LinkedIn-jhonnypz-white?&style=for-the-badge&logo=linkedin&labelColor=0A66C2)](https://linkedin.com/in/jhonnypz)
