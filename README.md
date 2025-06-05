@@ -10,12 +10,6 @@
 [![name](https://img.shields.io/badge/LinkedIn-jhonnypz-white?&style=for-the-badge&logo=linkedin&labelColor=0A66C2)](https://linkedin.com/in/jhonnypz)
 </br>
 
-## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Tools-SRE&theme=dark)](https://github.com/jhonnypz/Tools-SRE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Infrastructure-as-Code&theme=dark)](https://github.com/JhonnyPz/Infrastructure-as-Code) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Frameworks&theme=dark)](https://github.com/jhonnypz/Frameworks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonnypz&repo=Weekly-Challenge-2022-CSharp&theme=dark)](https://github.com/jhonnypz/Weekly-Challenge-2022-CSharp)
-
 ## Technologies
 >*Core*
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=icloud&logoColor=white&labelColor=101010)
